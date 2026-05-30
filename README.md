@@ -67,7 +67,7 @@ python transformer.py
 # → torch.Size([2, 7, 10])
 ```
 
----
+-------
 
 ## 🔧 Usage
 
