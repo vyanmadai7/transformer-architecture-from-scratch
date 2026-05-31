@@ -48,7 +48,7 @@ This repo implements the full **Transformer architecture** in pure PyTorch — n
 Attention(Q, K, V) = softmax(QKᵀ / √dₖ) · V
 ```
 
--------
+-----------
 
 ## 🚀 Quick Start
 
