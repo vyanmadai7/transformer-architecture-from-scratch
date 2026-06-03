@@ -1,7 +1,7 @@
 # ⚡ Transformer from Scratch
 ### A clean PyTorch implementation of *Attention Is All You Need*
 
-----------------
+--------------------
 
 ```
          src tokens                    trg tokens
