@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 
-# Multi Head Self Attention
+#Multi Head Self Attention
 class SelfAttention(nn.Module):
     #Attention(Q , K , V) = softmax(Q K ^ T / sqrt(d_k)) * V
     def __init__(self, embed_size, heads):
