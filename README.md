@@ -29,7 +29,7 @@ This repo implements the full **Transformer architecture** in pure PyTorch — n
 
 > Based on the seminal paper: [*Attention Is All You Need* — Vaswani et al., 2017](https://arxiv.org/abs/1706.03762)
 
---------------------
+------------------------
 
 ## 🧱 Architecture
 
