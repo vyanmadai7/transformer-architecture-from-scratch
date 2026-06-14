@@ -111,7 +111,7 @@ print(out.shape)  # → (batch, trg_len, trg_vocab_size)
 | `dropout` | `0.1` | Dropout rate |
 | `max_length` | `100` | Max sequence length |
 
----
+-------------
 
 ## 🔍 Key Implementation Details
 
