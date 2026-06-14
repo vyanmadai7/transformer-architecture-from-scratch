@@ -137,7 +137,7 @@ transformer-from-scratch/
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) — Jay Alammar
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) — Harvard NLP
 
----
+-------------
 
 ## 📄 License
 
