@@ -98,7 +98,7 @@ out = model(src, trg)
 print(out.shape)  # → (batch, trg_len, trg_vocab_size)
 ```
 
----
+-------------
 
 ## ⚙️ Hyperparameters
 
