@@ -120,7 +120,7 @@ print(out.shape)  # → (batch, trg_len, trg_vocab_size)
 - **Positional Encoding** — Learned embeddings (rather than fixed sinusoidal), enabling flexibility
 - **Layer Norm** — Applied post-residual connection (original paper style)
 
--------------
+------------------
 
 ## 📁 File Structure
 
