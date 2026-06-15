@@ -129,7 +129,7 @@ transformer-from-scratch/
 └── transformer.py   # Full implementation + test
 ```
 
--------------
+------------------
 
 ## 📚 References
 
